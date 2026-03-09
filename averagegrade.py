@@ -1,9 +1,9 @@
-
-n1 = int(input('Digite o primeiro valor: '))
-n2 = int(input('Digite o segundo valor: '))
+n1 = float(input('Enter your first grade: '))
+n2 = float(input('Enter your second grade: '))
 m = (n1 + n2) / 2
 if m >= 6:
-    print('Você passou de ano! PARABÉNS!!')
+    print('You passed! CONGRATS!!')
 else:
-    print('Você foi reprovado, ESTUDE MAIS!')
-print("Sua média foi de : ", m)
+    print('You failed. KEEP STUDYING!')
+print(f"Your average grade is: {m:.1f}")
+
