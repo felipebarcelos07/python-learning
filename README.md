@@ -5,6 +5,8 @@ Here, you will find a collection of scripts, exercises, and small projects that 
 
 Key highlights of this repository:
 
+Coding Standarts: I follow PEP 8 guidelines and use meaningful comments to ensure code readability and maintainability.
+
 Practical Examples: Small projects like grade calculators, currency converters, and automation tools.
 
 Fundamental Concepts: Applying variables, data types (int and float), conditional logic (if/else), and f-string formatting.
