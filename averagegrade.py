@@ -9,6 +9,3 @@ if m >= 6:
 else:
     print("You failed. KEEP STUDYING!")
 print(f"Your average grade is: {m:.1f}")
-
-
-
